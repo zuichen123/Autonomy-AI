@@ -11,12 +11,12 @@
 ## 使用
 
 - 进入项目目录
-- 使用编辑器编辑Autonomy-AI.py，添加自己的token和api地址，模型名称，默认为空
-- 输入python3 Autonomy-AI.py启动程序
+- 使用编辑器编辑`Autonomy-AI.py`，添加自己的`token`和`api`地址，模型名称，默认为空
+- 输入`python3 Autonomy-AI.py`启动程序
 
 ## 功能
 
-- 将AI直接接入linux系统命令行，它可以直接执行所有linux命令
-- AI的权限继承自启动AI的用户
+- 将AI**直接接入**linux系统命令行，它可以**直接执行**所有linux命令
+- AI的权限继承自`启动AI的用户`
 - AI拥有自己的长期记忆文件，它可以自行写入长期记忆并读取
-- 拥有log功能，ai的操作可以在Autonomy-AI.py同目录下的agent.log查看
+- 拥有log功能，ai的操作可以在`Autonomy-AI.py`同目录下的`agent.log`查看
